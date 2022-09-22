@@ -9,4 +9,3 @@ We invite everyone to [contribute to the guide](https://github.com/CircuitVerse)
 
 For any queries about the CV simulator, visit the [CircuitVerse Forum](https://circuitverse.org/forum).
 
-
